@@ -1,0 +1,18 @@
+body {
+	background-color: rgba(0,0,0,0.05);
+}
+
+main {
+	background-color: white;
+	display: block;
+	padding: 2em;
+	margin: 2em auto;
+	max-width: 30em;
+	box-shadow: 0 0 1em 0 rgba(0,0,0,0.3);
+}
+
+#logo {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
